@@ -1,0 +1,14 @@
+C:\Users\kaktu\Desktop\cowsay\cowsay\bin\Debug\net8.0\cowsay.exe
+C:\Users\kaktu\Desktop\cowsay\cowsay\bin\Debug\net8.0\cowsay.deps.json
+C:\Users\kaktu\Desktop\cowsay\cowsay\bin\Debug\net8.0\cowsay.runtimeconfig.json
+C:\Users\kaktu\Desktop\cowsay\cowsay\bin\Debug\net8.0\cowsay.dll
+C:\Users\kaktu\Desktop\cowsay\cowsay\bin\Debug\net8.0\cowsay.pdb
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\cowsay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\cowsay.AssemblyInfoInputs.cache
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\cowsay.AssemblyInfo.cs
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\cowsay.csproj.CoreCompileInputs.cache
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\cowsay.dll
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\refint\cowsay.dll
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\cowsay.pdb
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\cowsay.genruntimeconfig.cache
+C:\Users\kaktu\Desktop\cowsay\cowsay\obj\Debug\net8.0\ref\cowsay.dll
